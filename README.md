@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Md Etiraz Iftikhar Niloy</h1>
 <h3 align="center">Web Developer</h3>
 
-As a web developer, I am Md Etiraz Iftikhar Niloy a highly skilled professional who plays a crucial role in the digital landscape. With a strong foundation in programming languages, and web development frameworks, and a passion for creating seamless online experiences,  brings a unique set of talents to the field.
+<p>As a web developer, I am Md Etiraz Iftikhar Niloy a highly skilled professional who plays a crucial role in the digital landscape. With a strong foundation in programming languages, and web development frameworks, and a passion for creating seamless online experiences,  brings a unique set of talents to the field.
 
-I am proficient in a variety of programming languages, including but not limited to HTML, CSS, JavaScript, and more.
+I am proficient in a variety of programming languages, including but not limited to HTML, CSS, JavaScript, and more.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etirazn95&label=Profile%20views&color=0e75b6&style=flat" alt="etirazn95" /> </p>
 
